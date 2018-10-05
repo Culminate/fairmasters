@@ -1,0 +1,88 @@
+header {
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/handyman-1400x600.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+nav {
+	background-color: transparent;
+}
+
+.navbar-brand span {
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.2rem;
+	font-weight: bold;
+	color: #ECEFF1;
+	position: relative;
+	top: 20px;
+	left: -180px;
+}
+
+.navbar-brand {
+	width: 330px;
+}
+
+.navbar-collapse {
+	background-color: #BDBDBDB4;
+	border-radius: 15px;
+}
+
+.navbar-text, .nav-link {
+	padding: 1rem 8px;
+	font-size: 1.2rem;
+	color: #ECEFF1;
+	white-space: nowrap;
+}
+
+.nav-link {
+	font-weight: bold;
+}
+
+.nav > span {
+	text-align: center;
+	padding: 0;
+}
+
+.headline {
+	font-size: 4rem;
+	font-family: 'Russo one', sans-serif;
+	color: #FFCA28;
+	text-align: center;
+	margin: 0;
+}
+
+.headerline {
+	font-size: 1.5rem;
+	font-family: 'Roboto', sans-serif;
+	color: #FFF8E1;
+	text-align: center;
+}
+
+.image-grid p {
+	font-size: 1.2rem;
+	font-family: 'Roboto', sans-serif;
+	color: #FFF8E1;
+}
+
+.buttontel > a{
+	background-color: green;
+	font-weight: bold;
+	font-size: 2rem;
+	color: white;
+	padding: 8px 15px;
+	border-radius: 15px;
+}
+.buttontel > a:hover {
+	text-decoration: none;
+}
+
+main {
+	background-color: #90A4AE;
+	
+}
+
+
+footer {
+	background-color: #FF6F00;
+}
