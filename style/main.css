@@ -114,11 +114,16 @@ main td {
 	color: #37474F;
 	font-size: 1.1rem;
 	padding: 8px 50px;
+	transition: all 0.2s ease-out;
 }
 
 main td:last-child {
 	width: 30%;
 	text-align: center;
+}
+
+main tr:hover td {
+	color: #000;
 }
 
 main tr:nth-child(odd) {
