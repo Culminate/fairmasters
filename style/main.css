@@ -82,10 +82,43 @@ nav {
 }
 
 main {
-	background-color: #90A4AE;
-	
+	background: #fff;
 }
 
+main h2 {
+	color: #455A64;
+}
+
+main table {
+	width: 100%;
+}
+
+main th {
+	background: #FFCA28;
+	color: #FFFDE7;
+	text-align: center;
+	font-size: 1.5rem;
+	padding: 5px;
+}
+
+main td {
+	color: #37474F;
+	font-size: 1.1rem;
+	padding: 8px 50px;
+}
+
+main td:last-child {
+	width: 30%;
+	text-align: center;
+}
+
+main tr:nth-child(odd) {
+	background: #CFD8DC;
+}
+
+main tr:nth-child(even) {
+	background: #ECEFF0;
+}
 
 footer {
 	background-color: #FF6F00;
