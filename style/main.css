@@ -126,6 +126,7 @@ main td:last-child {
 
 main tr:hover td {
 	color: #000;
+	transform: scale(1.05);
 }
 
 main tr:nth-child(odd) {
