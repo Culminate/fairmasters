@@ -78,10 +78,10 @@ nav {
 }
 
 .buttontel > a{
-	background-color: green;
+	background-color: #FFCA28;
 	font-weight: bold;
 	font-size: 2rem;
-	color: white;
+	color: #FFF8E1;
 	padding: 8px 15px;
 	border-radius: 15px;
 }
