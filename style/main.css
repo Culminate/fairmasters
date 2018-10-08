@@ -94,6 +94,7 @@ main {
 }
 
 main h2 {
+	font-family: 'Roboto', sans-serif;
 	color: #455A64;
 }
 
@@ -113,6 +114,7 @@ main th {
 main td {
 	color: #37474F;
 	font-size: 1.1rem;
+	font-family: 'Roboto', sans-serif;
 	padding: 8px 50px;
 	transition: all 0.2s ease-out;
 }
