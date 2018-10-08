@@ -69,6 +69,14 @@ nav {
 	color: #FFF8E1;
 }
 
+.image-grid img {
+	transition: all 0.2s ease-out;
+}
+
+.image-grid img:hover {
+	transform: scale(1.1);
+}
+
 .buttontel > a{
 	background-color: green;
 	font-weight: bold;
