@@ -91,6 +91,7 @@ main h2 {
 
 main table {
 	width: 100%;
+	margin-bottom: 15px;
 }
 
 main th {
